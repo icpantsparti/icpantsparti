@@ -7,9 +7,13 @@
 "icpantsparti" <=> "participants"
 
 https://www.merriam-webster.com/dictionary/i
+
 https://www.merriam-webster.com/dictionary/c
+
 https://www.merriam-webster.com/dictionary/pants
+
 https://www.merriam-webster.com/dictionary/parti
+
 https://www.merriam-webster.com/dictionary/participants
 
 <!---
